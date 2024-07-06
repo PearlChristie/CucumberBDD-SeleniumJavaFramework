@@ -5,5 +5,5 @@ Personal Objectives:
 2. Acquire an good understanding of technical proficiency around this approach and framework
 
 Accomplishments:
-Learned about the BDD Framework as I coded along hands on in the course
+Learned about the BDD Framework as I coded along hands on in the course.
 Completed a project with basic reporting capabilities, framework and an understanding and appreciation for test automation efforts
