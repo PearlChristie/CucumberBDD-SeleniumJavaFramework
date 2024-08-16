@@ -1,4 +1,4 @@
-# CucumberBDDFramework
+# CucumberBDD-SeleniumJavaFramework
 
 Personal Objectives:
 1. Get familar with the BDD Automation Framework and industry best practices
